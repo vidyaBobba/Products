@@ -16,6 +16,3 @@ CMD ["java", "-jar", "/test.jar"]
 
 6.docker run -p 8023:8080 docker_image_name
 
-
-
-https://gapinc.zoom.us/j/98566914666?pwd=bWUxRXBFMHpldngvWjhFVTYyNmRadz09&from=addon
